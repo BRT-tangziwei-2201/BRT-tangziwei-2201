@@ -18,10 +18,11 @@ Programming languages:
 - Shell
 
 Likes:
+- Independence
 - Clean code
 - Efficiency (space and time)
 - Learning
 
 Dislikes:
-- Troubling others
-- Wasting time
+- Excessive reliance
+- Unproductive use of time / resources
